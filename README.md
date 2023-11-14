@@ -1,2 +1,1 @@
-# srs-trial
-A trial product for students' research server website
+# Website for Students' Research Server in Osaka Univ. Medical School
